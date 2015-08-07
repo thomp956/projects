@@ -16,4 +16,4 @@ The graph file is set up as such:
 *Number of nodes in graph
 *Each line after is the relation of each node
 
-The program outputs the end state list after the search, the parent node of wach node, and the distance to each node.
+The program outputs the end state list after the search, the parent node of each node, and the distance to each node.
